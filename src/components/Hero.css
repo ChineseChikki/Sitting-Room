@@ -1,0 +1,40 @@
+.overAll {
+  margin: auto;
+  margin-top: 50px;
+  width: 80vw;
+  position: relative;
+}
+
+.heroPage {
+  display: flex;
+  flex-direction: row;
+  height: 80vh;
+}
+
+.heroText {
+  background-color: rgb(21, 21, 62);
+  color: white;
+  padding-top: 28rem;
+  padding-left: 1.5rem;
+}
+
+a {
+  color: white;
+  margin-bottom: 1rem;
+  font-size: 12px;
+}
+
+.new {
+  margin-bottom: 1rem;
+  font-size: 16px;
+}
+
+.Lorem {
+  margin-bottom: 1rem;
+  font-size: 12px;
+  max-width: 90%;
+}
+
+.myImg {
+  max-width: 65%;
+}
